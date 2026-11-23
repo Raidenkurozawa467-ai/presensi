@@ -98,3 +98,22 @@ Isi kolom *Hasil Aktual*/*Status* setelah menjalankan tiap skenario, dan lampirk
 
 ## Tautan Repository
 <URL-REPOSITORY-ANDA>
+
+##Gambar Kerja
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dcd16d7f-b5d3-42f4-ae52-0189dec4ab17" />
+
+##Dokumentasi
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/db573aa8-a74a-42b2-bba2-787cefd400a7" />
+<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/cc307dc1-cffc-454c-a721-98ea4233fe9d" />
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/b15d98ce-e13a-4c5f-8d09-9c576919d422" />
+<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/1e3f8d67-2923-45df-8e10-1f3e985176b5" />
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/4115a75f-a5a0-404e-bc83-dcab197a9418" />
+<img width="1918" height="994" alt="image" src="https://github.com/user-attachments/assets/3cd32995-3667-44e9-ac1c-ac0fda812978" />
+
+
+
+
+
+
+
+
