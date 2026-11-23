@@ -98,6 +98,7 @@ Isi kolom *Hasil Aktual*/*Status* setelah menjalankan tiap skenario, dan lampirk
 
 ## Tautan Repository
 <URL-REPOSITORY-ANDA>
+https://github.com/Raidenkurozawa467-ai/presensi.git
 
 ##Gambar Kerja
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dcd16d7f-b5d3-42f4-ae52-0189dec4ab17" />
